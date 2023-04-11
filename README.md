@@ -1,4 +1,4 @@
-# This is the project to Extracting Business Card Data with OCR 
+# This is the project to Extracting Business Card Data with EasyOCR 
 
 ### This project was done through google colab
 
